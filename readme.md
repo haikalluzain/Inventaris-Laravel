@@ -11,7 +11,8 @@
 Aplikasi ini berguna untuk penyimpanan barang suatu intansi dan proses pinjam meminjam barang.
 
 ## ScreenShot
-![loginadmin](https://user-images.githubusercontent.com/33745923/57223580-bb063c80-7030-11e9-87a4-7afd3479b8cd.png)![Dashboard](https://user-images.githubusercontent.com/33745923/57223577-b9d50f80-7030-11e9-9528-0522152efd5c.png)
+![loginadmin](https://user-images.githubusercontent.com/33745923/57223580-bb063c80-7030-11e9-87a4-7afd3479b8cd.png)
+![Dashboard](https://user-images.githubusercontent.com/33745923/57223577-b9d50f80-7030-11e9-9528-0522152efd5c.png)
 ![employee](https://user-images.githubusercontent.com/33745923/57223578-ba6da600-7030-11e9-96e5-6834fa740e73.png)
 ![item](https://user-images.githubusercontent.com/33745923/57223579-ba6da600-7030-11e9-810b-c724ac577b2c.png)
 ![borrow](https://user-images.githubusercontent.com/33745923/57223573-b93c7900-7030-11e9-92e0-da0208377a8d.png)
